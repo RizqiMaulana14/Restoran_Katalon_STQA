@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Memeriksa apakah klik kategori menampilkan kategori menu.</description>
+   <name>TC-3.2</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>a8244d24-94ba-43b6-83eb-d9523cce4034</testCaseGuid>
+</TestCaseEntity>
