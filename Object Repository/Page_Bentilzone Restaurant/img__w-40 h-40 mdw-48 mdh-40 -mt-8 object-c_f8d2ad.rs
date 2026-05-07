@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img__w-40 h-40 mdw-48 mdh-40 -mt-8 object-c_f8d2ad</name>
+   <tag></tag>
+   <elementGuidId>a9e57479-f9dc-4b16-b863-0608fabed867</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//section[@id='menu']/div[3]/div[3]/div/img</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=img[name=&quot;chicken delicious item 4&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>d1b02064-9256-4121-8d6d-0188033dffe6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>w-40 h-40 md:w-48 md:h-40 -mt-8 object-contain cursor-pointer</value>
+      <webElementGuid>aeb3d1fb-2df3-4f36-b2e0-0d97da565e97</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>chicken delicious item 4</value>
+      <webElementGuid>81549062-fb15-426e-8bcb-0ca08d423b3d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>/static/media/c4.1322eed92c04d92db35d.png</value>
+      <webElementGuid>f285442b-598b-472d-a2aa-c14c628898d5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;menu&quot;)/div[@class=&quot;bg-containerbg w-full my-12 flex items-center justify-center   min-h-[200px] gap-4  px-2 overflow-x-hidden flex-wrap&quot;]/div[@class=&quot;w-[320px] min-w-[320px] md:w-[300px] md:min-w-[300px] my-12 h-auto bg-cardOverlay rounded-lg p-2 px-3 backdrop-blur-lg hover:drop-shadow-sm cursor-pointer&quot;]/div[@class=&quot;w-full flex items-center justify-between&quot;]/img[@class=&quot;w-40 h-40 md:w-48 md:h-40 -mt-8 object-contain cursor-pointer&quot;]</value>
+      <webElementGuid>8cc99063-7c83-4c99-838d-885f1627aaef</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='menu']/div[3]/div[3]/div/img</value>
+      <webElementGuid>564d0ad1-419b-4504-8d9b-f33f614c48d4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='chicken delicious item 4']</value>
+      <webElementGuid>2f4f81d9-f3a5-4729-9fd9-93ff92723fc5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/img</value>
+      <webElementGuid>9128f22c-667b-434a-b348-cf34320670cb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@alt = 'chicken delicious item 4' and @src = '/static/media/c4.1322eed92c04d92db35d.png']</value>
+      <webElementGuid>a67dc55c-b8df-4ff0-b40d-d6e1e234dc12</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

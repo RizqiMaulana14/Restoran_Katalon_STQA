@@ -33,7 +33,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>cca1099e-986e-40be-85bc-d43f0703aaa2</webElementGuid>
+      <webElementGuid>fefe9d06-7390-492d-b3c4-802df50c13a0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -41,7 +41,7 @@
       <name>href</name>
       <type>Main</type>
       <value>/menu</value>
-      <webElementGuid>a238df2c-156a-49ec-924e-44a7307f7739</webElementGuid>
+      <webElementGuid>37bba95b-e278-41b7-9f73-16fb9012389a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -49,7 +49,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Menu</value>
-      <webElementGuid>5c6dc35d-d540-4105-b5de-e2fae13b089f</webElementGuid>
+      <webElementGuid>aa699688-e7d4-4fcb-9549-628230c3356a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -65,7 +65,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;root&quot;)/div[@class=&quot;w-screen h-auto min-h-[100vh] flex flex-col bg-primary&quot;]/header[@class=&quot;w-screen fixed z-50 bg-cardOverlay backdrop-blur-md md:p-3 md:px-4 lg:p-6 lg:px-16&quot;]/div[@class=&quot;hidden md:flex w-full justify-between itesm-center&quot;]/div[@class=&quot;flex items-center gap-8&quot;]/ul[@class=&quot;flex items-center gap-8 undefined&quot;]/li[@class=&quot;md:text-sm lg:text-md text-base text-textColor cursor-pointer hover:text-headingColor duration-100 transition-all ease-in-out&quot;]/a[1]</value>
-      <webElementGuid>dd6d944a-a95c-4bcb-a55a-4fb97bccecbb</webElementGuid>
+      <webElementGuid>e7efa531-dde0-4bcd-b747-d0742b595e4d</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -73,7 +73,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/div[2]/header/div/div/ul/li[2]/a</value>
-      <webElementGuid>9d1a734f-1b13-4a95-963a-a719e6fce094</webElementGuid>
+      <webElementGuid>edb31b17-e961-4713-8017-87d89cf6fb0d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -81,7 +81,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'Menu')]</value>
-      <webElementGuid>c0d6cb36-c112-4539-910a-2210321fa2c8</webElementGuid>
+      <webElementGuid>2b203e5c-2256-4dd2-8489-337b9cf41687</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -89,7 +89,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Home'])[1]/following::a[1]</value>
-      <webElementGuid>0a6fb321-1a1e-4284-a66a-276a83b03c5e</webElementGuid>
+      <webElementGuid>be693f8a-47be-47b0-bf54-22c667d158d5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -97,7 +97,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Services'])[1]/preceding::a[1]</value>
-      <webElementGuid>6345cb21-904e-442b-9457-6b66523f460d</webElementGuid>
+      <webElementGuid>838deb75-befa-40cc-8cf7-414e159f57a9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -105,7 +105,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='About us'])[1]/preceding::a[2]</value>
-      <webElementGuid>310dbc17-0f0e-4aab-8408-a6b0c66d3a2a</webElementGuid>
+      <webElementGuid>89891748-e400-4785-b1bd-0c6367c8b956</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -113,7 +113,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Menu']/parent::*</value>
-      <webElementGuid>75dddb41-8a7b-4d78-befe-52f4863adf3c</webElementGuid>
+      <webElementGuid>b8815917-9885-4a8f-92ac-22b5f3295b33</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -121,7 +121,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, '/menu')]</value>
-      <webElementGuid>849b275a-e825-48ba-90d3-d48a3bd1dfff</webElementGuid>
+      <webElementGuid>fa4c82ef-6431-494a-9e8b-12a848d42db8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -129,7 +129,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li[2]/a</value>
-      <webElementGuid>c618fe4d-8314-4731-b681-91143a823c5c</webElementGuid>
+      <webElementGuid>114b2d03-abae-41a0-875a-6bc296a5c38c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -137,7 +137,7 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = '/menu' and (text() = 'Menu' or . = 'Menu')]</value>
-      <webElementGuid>cc31cbe8-866d-4fb1-97db-bcfbed07ac89</webElementGuid>
+      <webElementGuid>6853a929-2170-4935-9151-156bba24fa78</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>

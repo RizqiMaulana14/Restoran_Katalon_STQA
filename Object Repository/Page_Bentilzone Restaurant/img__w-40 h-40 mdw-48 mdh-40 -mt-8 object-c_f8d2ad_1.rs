@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img__w-40 h-40 mdw-48 mdh-40 -mt-8 object-c_f8d2ad_1</name>
+   <tag></tag>
+   <elementGuidId>119eddb1-34a5-4e46-8566-7c679c7965f4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//section[@id='menu']/div[3]/div[3]/div/img</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=img[name=&quot;fruits delicious item 8&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>257eebea-f551-44cb-b124-09d18d632c7d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>w-40 h-40 md:w-48 md:h-40 -mt-8 object-contain cursor-pointer</value>
+      <webElementGuid>614aaf33-5e25-4454-a7e0-ee1fd3a06122</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>fruits delicious item 8</value>
+      <webElementGuid>abf06c59-f098-4483-962a-efead2c8cee5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>/static/media/f8.836a9ee1781a704309f2.png</value>
+      <webElementGuid>7089d382-66a8-4aad-b069-8744f079f3f0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;menu&quot;)/div[@class=&quot;bg-containerbg w-full my-12 flex items-center justify-center   min-h-[200px] gap-4  px-2 overflow-x-hidden flex-wrap&quot;]/div[@class=&quot;w-[320px] min-w-[320px] md:w-[300px] md:min-w-[300px] my-12 h-auto bg-cardOverlay rounded-lg p-2 px-3 backdrop-blur-lg hover:drop-shadow-sm cursor-pointer&quot;]/div[@class=&quot;w-full flex items-center justify-between&quot;]/img[@class=&quot;w-40 h-40 md:w-48 md:h-40 -mt-8 object-contain cursor-pointer&quot;]</value>
+      <webElementGuid>f78021ca-bc85-406b-92ac-64ddbf9ca670</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='menu']/div[3]/div[3]/div/img</value>
+      <webElementGuid>bf98feb5-b05d-4eb4-a4c1-abdd94114e05</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='fruits delicious item 8']</value>
+      <webElementGuid>2d7e60a1-4246-422b-956d-130654f7d986</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/img</value>
+      <webElementGuid>d513f8f7-21ad-4954-b1ed-2c499c40e5ef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@alt = 'fruits delicious item 8' and @src = '/static/media/f8.836a9ee1781a704309f2.png']</value>
+      <webElementGuid>679c77b3-384f-4702-ab2e-751f37996a39</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
