@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Memeriksa login dengan data tidak valid.</description>
+   <name>TC-6.1</name>
+   <tag></tag>
+   <comment></comment>
+   <origin>WEB_RECORDER</origin>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>987b8a93-d20f-4ecf-9c82-f1a97b8034cc</testCaseGuid>
+</TestCaseEntity>

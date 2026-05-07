@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>apasi</description>
+   <name>TC-1.2</name>
+   <tag></tag>
+   <comment></comment>
+   <origin>WEB_RECORDER</origin>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>82edea95-cf78-4e48-8882-0e3a7f09206a</testCaseGuid>
+</TestCaseEntity>

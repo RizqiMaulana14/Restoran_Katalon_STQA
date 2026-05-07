@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Memeriksa apakah halaman home dapat di tampilkan</description>
+   <name>TC-1.1</name>
+   <tag></tag>
+   <comment></comment>
+   <origin>WEB_RECORDER</origin>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>a48d9855-5de5-454f-937c-0253db2100f4</testCaseGuid>
+</TestCaseEntity>

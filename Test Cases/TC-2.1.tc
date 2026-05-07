@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Memeriksa apakah daftar menu tampil.</description>
+   <name>TC-2.1</name>
+   <tag></tag>
+   <comment></comment>
+   <origin>WEB_RECORDER</origin>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>e7295413-a644-47c8-b34d-273785d6f37f</testCaseGuid>
+</TestCaseEntity>

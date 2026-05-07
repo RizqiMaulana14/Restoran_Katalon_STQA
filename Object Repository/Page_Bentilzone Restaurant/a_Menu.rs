@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Menu</name>
+   <tag></tag>
+   <elementGuidId>c3d17568-c6e8-476f-a50f-ddd77050c345</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@href = '/menu']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>[href=&quot;\/menu&quot;]</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@href = '/menu' and (text() = 'Menu' or . = 'Menu')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Menu&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>05503ff7-e9e5-43cb-bf3b-541812d7f192</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/menu</value>
+      <webElementGuid>5e11d61c-783f-4d9a-8a15-7d0d6261a730</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Menu</value>
+      <webElementGuid>1afb0a5a-bf7b-4d60-8aa3-bca0ec6cd511</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-d795f25a142f20985d417964a8b91011</value>
+      <webElementGuid>1477f65c-48c4-4a47-8adb-b560c65ee3bb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@href = '/menu']</value>
+      <webElementGuid>92ebef9a-f15d-4d72-8e61-7722bc14de02</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@href = '/menu']</value>
+      <webElementGuid>d5faa268-3a5e-467e-80f7-b0d4e60ce514</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/menu' and (text() = 'Menu' or . = 'Menu')]</value>
+      <webElementGuid>b5248131-80ef-4f4e-9a18-17579bc4d321</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

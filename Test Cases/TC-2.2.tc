@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Memeriksa apakah nama tampil</description>
+   <name>TC-2.2</name>
+   <tag></tag>
+   <comment></comment>
+   <origin>WEB_RECORDER</origin>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>38460dee-39d6-4564-8011-d52cfeeb27da</testCaseGuid>
+</TestCaseEntity>
