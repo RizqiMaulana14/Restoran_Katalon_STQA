@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Memeriksa apakah data menu sesuai dari database.</description>
+   <name>TC-2.5</name>
+   <tag></tag>
+   <comment></comment>
+   <origin>WEB_RECORDER</origin>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>b2184c1b-c3fd-4338-a592-7969ffac8fba</testCaseGuid>
+</TestCaseEntity>

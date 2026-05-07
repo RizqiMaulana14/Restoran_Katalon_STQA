@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Memeriksa apakah harga tampil.</description>
+   <name>TC-2.3</name>
+   <tag></tag>
+   <comment></comment>
+   <origin>WEB_RECORDER</origin>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>105571be-b440-4140-90d7-0b6136fd8ecc</testCaseGuid>
+</TestCaseEntity>
