@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_Contact us_w-40 h-40 mdw-48 mdh-40 -mt-_704429</name>
+   <tag></tag>
+   <elementGuidId>cae9d695-3e60-45e4-bf65-ce2ec7899fe1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//section[@id='menu']/div[3]/div/div/img</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=img[name=&quot;curry delicious item 4&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>e0f4d560-b964-4088-955a-ede4a3cdfd97</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>w-40 h-40 md:w-48 md:h-40 -mt-8 object-contain cursor-pointer</value>
+      <webElementGuid>995160b2-bfc7-4f08-a186-98dd81341343</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>curry delicious item 4</value>
+      <webElementGuid>3faba6fb-ad98-436c-9ff3-5745a0b1cd02</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>/static/media/cu4.ec828e1d8490a0f38f9c.png</value>
+      <webElementGuid>18142e82-84f6-4a7d-8d2e-57a3bfad9451</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;menu&quot;)/div[@class=&quot;bg-containerbg w-full my-12 flex items-center justify-center   min-h-[200px] gap-4  px-2 overflow-x-hidden flex-wrap&quot;]/div[@class=&quot;w-[320px] min-w-[320px] md:w-[300px] md:min-w-[300px] my-12 h-auto bg-cardOverlay rounded-lg p-2 px-3 backdrop-blur-lg hover:drop-shadow-sm cursor-pointer&quot;]/div[@class=&quot;w-full flex items-center justify-between&quot;]/img[@class=&quot;w-40 h-40 md:w-48 md:h-40 -mt-8 object-contain cursor-pointer&quot;]</value>
+      <webElementGuid>ee7eb947-81c8-4279-8802-0fee5ac49b96</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='menu']/div[3]/div/div/img</value>
+      <webElementGuid>535d105f-2454-4948-bbe2-92a557ee30b6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='curry delicious item 4']</value>
+      <webElementGuid>76ed5b2c-aeb1-44e3-b62a-51e08c0e573f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/img</value>
+      <webElementGuid>07bf6437-9357-48f4-bac7-772b1012282b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@alt = 'curry delicious item 4' and @src = '/static/media/cu4.ec828e1d8490a0f38f9c.png']</value>
+      <webElementGuid>6c22389c-7116-4dec-902d-4451785d4c71</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

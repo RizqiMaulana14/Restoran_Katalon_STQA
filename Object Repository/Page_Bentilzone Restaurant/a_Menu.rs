@@ -6,16 +6,16 @@
    <elementGuidId>c3d17568-c6e8-476f-a50f-ddd77050c345</elementGuidId>
    <selectorCollection>
       <entry>
+         <key>BASIC</key>
+         <value>//*[@href = '/menu' and (text() = 'Menu' or . = 'Menu')]</value>
+      </entry>
+      <entry>
          <key>XPATH</key>
-         <value>//*[@href = '/menu']</value>
+         <value>//div[@id='root']/div[2]/header/div/div/ul/li[2]/a</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>[href=&quot;\/menu&quot;]</value>
-      </entry>
-      <entry>
-         <key>BASIC</key>
-         <value>//*[@href = '/menu' and (text() = 'Menu' or . = 'Menu')]</value>
+         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -33,7 +33,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>05503ff7-e9e5-43cb-bf3b-541812d7f192</webElementGuid>
+      <webElementGuid>cca1099e-986e-40be-85bc-d43f0703aaa2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -41,7 +41,7 @@
       <name>href</name>
       <type>Main</type>
       <value>/menu</value>
-      <webElementGuid>5e11d61c-783f-4d9a-8a15-7d0d6261a730</webElementGuid>
+      <webElementGuid>a238df2c-156a-49ec-924e-44a7307f7739</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -49,7 +49,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Menu</value>
-      <webElementGuid>1afb0a5a-bf7b-4d60-8aa3-bca0ec6cd511</webElementGuid>
+      <webElementGuid>5c6dc35d-d540-4105-b5de-e2fae13b089f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -64,16 +64,72 @@
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>//*[@href = '/menu']</value>
-      <webElementGuid>92ebef9a-f15d-4d72-8e61-7722bc14de02</webElementGuid>
+      <value>id(&quot;root&quot;)/div[@class=&quot;w-screen h-auto min-h-[100vh] flex flex-col bg-primary&quot;]/header[@class=&quot;w-screen fixed z-50 bg-cardOverlay backdrop-blur-md md:p-3 md:px-4 lg:p-6 lg:px-16&quot;]/div[@class=&quot;hidden md:flex w-full justify-between itesm-center&quot;]/div[@class=&quot;flex items-center gap-8&quot;]/ul[@class=&quot;flex items-center gap-8 undefined&quot;]/li[@class=&quot;md:text-sm lg:text-md text-base text-textColor cursor-pointer hover:text-headingColor duration-100 transition-all ease-in-out&quot;]/a[1]</value>
+      <webElementGuid>dd6d944a-a95c-4bcb-a55a-4fb97bccecbb</webElementGuid>
    </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[2]/header/div/div/ul/li[2]/a</value>
+      <webElementGuid>9d1a734f-1b13-4a95-963a-a719e6fce094</webElementGuid>
+   </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>xpath:attributes</name>
+      <name>xpath:link</name>
       <type>Main</type>
-      <value>//*[@href = '/menu']</value>
-      <webElementGuid>d5faa268-3a5e-467e-80f7-b0d4e60ce514</webElementGuid>
+      <value>//a[contains(text(),'Menu')]</value>
+      <webElementGuid>c0d6cb36-c112-4539-910a-2210321fa2c8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Home'])[1]/following::a[1]</value>
+      <webElementGuid>0a6fb321-1a1e-4284-a66a-276a83b03c5e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Services'])[1]/preceding::a[1]</value>
+      <webElementGuid>6345cb21-904e-442b-9457-6b66523f460d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='About us'])[1]/preceding::a[2]</value>
+      <webElementGuid>310dbc17-0f0e-4aab-8408-a6b0c66d3a2a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Menu']/parent::*</value>
+      <webElementGuid>75dddb41-8a7b-4d78-befe-52f4863adf3c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/menu')]</value>
+      <webElementGuid>849b275a-e825-48ba-90d3-d48a3bd1dfff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]/a</value>
+      <webElementGuid>c618fe4d-8314-4731-b681-91143a823c5c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -81,6 +137,14 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = '/menu' and (text() = 'Menu' or . = 'Menu')]</value>
-      <webElementGuid>b5248131-80ef-4f4e-9a18-17579bc4d321</webElementGuid>
+      <webElementGuid>cc31cbe8-866d-4fb1-97db-bcfbed07ac89</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@href = '/menu']</value>
+      <webElementGuid>d5faa268-3a5e-467e-80f7-b0d4e60ce514</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

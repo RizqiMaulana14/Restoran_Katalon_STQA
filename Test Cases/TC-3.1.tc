@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Memeriksa apakah kategori ditampilkan.</description>
+   <name>TC-3.1</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>23a8ac11-f9d0-4b4c-9edb-7f650c85fc6e</testCaseGuid>
+</TestCaseEntity>
